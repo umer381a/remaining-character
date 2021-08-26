@@ -1,0 +1,15 @@
+#mytext-area{
+    display: inline;
+    width: 600px;
+    height: 300px;
+    text-align: left;
+    
+}
+#remainig-text-character{
+    display: inline;
+    color: #333333;
+    font-size: 14px;
+    font-weight: bold;
+    margin-top: 5px;
+    
+ }
